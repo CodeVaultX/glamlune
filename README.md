@@ -30,7 +30,7 @@ The game is free and contains ads with child-appropriate settings: a small banne
 
 ## Support
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 This repository holds the documentation only; the source code is not published here.
 
@@ -61,6 +61,6 @@ Oyun ücretsizdir ve çocuklara uygun ayarlarla reklam içerir: menülerde küç
 
 ### Destek
 
-passlune.app@gmail.com
+luneapps.support@gmail.com
 
 Bu depoda yalnızca belgeler bulunur; kaynak kod burada yayımlanmaz.
